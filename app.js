@@ -127,7 +127,7 @@ function filterStudents() {
 }
 
 /**
- * 7. 좌측 학생 목록 렌더링
+ * 7. 좌측 학생 목록 렌더링 (12학년 표기 적용)
  */
 function renderStudentList() {
   totalStudentsCount.textContent = filteredStudents.length;
@@ -153,7 +153,7 @@ function renderStudentList() {
     
     li.innerHTML = `
       <span class="student-name-text">${student.name}</span>
-      <span class="student-class">3학년 ${student.classNum}반 ${student.studentNum}번</span>
+      <span class="student-class">12학년 ${student.classNum}반 ${student.studentNum}번</span>
     `;
     
     // 학생 클릭 이벤트
@@ -163,7 +163,7 @@ function renderStudentList() {
 }
 
 /**
- * 8. 특정 학생 선택 및 시간표 뷰 업데이트
+ * 8. 특정 학생 선택 및 시간표 뷰 업데이트 (12학년 표기 적용)
  * @param {Object} student - 선택된 학생 객체
  */
 function selectStudent(student) {
@@ -186,7 +186,7 @@ function selectStudent(student) {
   // 상단 프로필 카드 정보 갱신
   studentName.textContent = student.name;
   avatarInitial.textContent = student.name.charAt(0);
-  studentClassBadge.textContent = `3학년 ${student.classNum}반 ${student.studentNum}번`;
+  studentClassBadge.textContent = `12학년 ${student.classNum}반 ${student.studentNum}번`;
   
   // 선택과목 칩 렌더링
   renderChoiceChips(student);
@@ -257,7 +257,7 @@ function renderChoiceChips(student) {
 }
 
 /**
- * 10. 주간 시간표 (월~금, 1~7교시) 그리드 렌더링 (과목명 + 교사 이름 + 수업 위치 표기)
+ * 10. 주간 시간표 (월~금, 1~7교시) 그리드 렌더링
  * @param {Object} timetable - 학생의 주간 시간표 객체
  */
 function renderTimetableGrid(timetable) {

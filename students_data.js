@@ -1,8 +1,8 @@
 window.STUDENTS_DATA = [
   {
-    "id": "3-1-01",
+    "id": "12-1-01",
     "name": "강수연",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 1,
     "choices": {
@@ -112,7 +112,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -278,7 +278,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -302,9 +302,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-02",
+    "id": "12-1-02",
     "name": "김가경",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 2,
     "choices": {
@@ -414,7 +414,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -580,7 +580,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -604,9 +604,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-03",
+    "id": "12-1-03",
     "name": "김근영",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 3,
     "choices": {
@@ -716,7 +716,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -882,7 +882,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -906,9 +906,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-04",
+    "id": "12-1-04",
     "name": "김민선",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 4,
     "choices": {
@@ -1018,7 +1018,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -1184,7 +1184,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -1208,9 +1208,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-05",
+    "id": "12-1-05",
     "name": "김승준",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 5,
     "choices": {
@@ -1320,7 +1320,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -1486,7 +1486,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -1510,9 +1510,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-06",
+    "id": "12-1-06",
     "name": "김시우",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 6,
     "choices": {
@@ -1622,7 +1622,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -1788,7 +1788,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -1812,9 +1812,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-07",
+    "id": "12-1-07",
     "name": "김연선",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 7,
     "choices": {
@@ -1924,7 +1924,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -2090,7 +2090,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -2114,9 +2114,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-08",
+    "id": "12-1-08",
     "name": "김주원",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 8,
     "choices": {
@@ -2226,7 +2226,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -2392,7 +2392,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -2416,9 +2416,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-09",
+    "id": "12-1-09",
     "name": "김지은",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 9,
     "choices": {
@@ -2528,7 +2528,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -2694,7 +2694,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -2718,9 +2718,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-10",
+    "id": "12-1-10",
     "name": "김하람",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 10,
     "choices": {
@@ -2830,7 +2830,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -2996,7 +2996,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -3020,9 +3020,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-11",
+    "id": "12-1-11",
     "name": "남지우",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 11,
     "choices": {
@@ -3132,7 +3132,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -3298,7 +3298,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -3322,9 +3322,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-12",
+    "id": "12-1-12",
     "name": "노재빈",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 12,
     "choices": {
@@ -3434,7 +3434,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -3600,7 +3600,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -3624,9 +3624,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-13",
+    "id": "12-1-13",
     "name": "류혁",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 13,
     "choices": {
@@ -3736,7 +3736,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -3902,7 +3902,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -3926,9 +3926,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-14",
+    "id": "12-1-14",
     "name": "문하늘",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 14,
     "choices": {
@@ -4038,7 +4038,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -4204,7 +4204,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -4228,9 +4228,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-15",
+    "id": "12-1-15",
     "name": "민소윤",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 15,
     "choices": {
@@ -4340,7 +4340,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -4506,7 +4506,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -4530,9 +4530,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-16",
+    "id": "12-1-16",
     "name": "민수인",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 16,
     "choices": {
@@ -4642,7 +4642,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -4808,7 +4808,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -4832,9 +4832,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-17",
+    "id": "12-1-17",
     "name": "박윤슬",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 17,
     "choices": {
@@ -4944,7 +4944,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -5110,7 +5110,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -5134,9 +5134,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-18",
+    "id": "12-1-18",
     "name": "박하율",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 18,
     "choices": {
@@ -5246,7 +5246,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -5412,7 +5412,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -5436,9 +5436,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-19",
+    "id": "12-1-19",
     "name": "성제후",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 19,
     "choices": {
@@ -5548,7 +5548,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -5714,7 +5714,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -5738,9 +5738,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-20",
+    "id": "12-1-20",
     "name": "손주원",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 20,
     "choices": {
@@ -5850,7 +5850,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -6016,7 +6016,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -6040,9 +6040,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-21",
+    "id": "12-1-21",
     "name": "오유나",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 21,
     "choices": {
@@ -6152,7 +6152,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -6318,7 +6318,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -6342,9 +6342,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-22",
+    "id": "12-1-22",
     "name": "이서준",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 22,
     "choices": {
@@ -6454,7 +6454,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -6620,7 +6620,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -6644,9 +6644,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-23",
+    "id": "12-1-23",
     "name": "이예림",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 23,
     "choices": {
@@ -6756,7 +6756,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -6922,7 +6922,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -6946,9 +6946,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-24",
+    "id": "12-1-24",
     "name": "이진주",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 24,
     "choices": {
@@ -7058,7 +7058,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -7224,7 +7224,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -7248,9 +7248,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-25",
+    "id": "12-1-25",
     "name": "임재윤",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 25,
     "choices": {
@@ -7360,7 +7360,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -7526,7 +7526,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -7550,9 +7550,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-26",
+    "id": "12-1-26",
     "name": "전가온",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 26,
     "choices": {
@@ -7662,7 +7662,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -7828,7 +7828,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -7852,9 +7852,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-27",
+    "id": "12-1-27",
     "name": "정서연",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 27,
     "choices": {
@@ -7964,7 +7964,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -8130,7 +8130,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -8154,9 +8154,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-28",
+    "id": "12-1-28",
     "name": "정수아",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 28,
     "choices": {
@@ -8266,7 +8266,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -8432,7 +8432,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -8456,9 +8456,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-29",
+    "id": "12-1-29",
     "name": "조윤성",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 29,
     "choices": {
@@ -8568,7 +8568,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -8734,7 +8734,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -8758,9 +8758,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-30",
+    "id": "12-1-30",
     "name": "최사랑",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 30,
     "choices": {
@@ -8870,7 +8870,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -9036,7 +9036,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -9060,9 +9060,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-31",
+    "id": "12-1-31",
     "name": "최재아",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 31,
     "choices": {
@@ -9172,7 +9172,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -9338,7 +9338,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -9362,9 +9362,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-32",
+    "id": "12-1-32",
     "name": "황예담",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 32,
     "choices": {
@@ -9474,7 +9474,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -9640,7 +9640,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -9664,9 +9664,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-1-33",
+    "id": "12-1-33",
     "name": "조환희",
-    "grade": 3,
+    "grade": 12,
     "classNum": 1,
     "studentNum": 33,
     "choices": {
@@ -9776,7 +9776,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "6": [
@@ -9942,7 +9942,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-1"
+            "room": "12-1"
           }
         ],
         "5": [
@@ -9966,9 +9966,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-01",
+    "id": "12-2-01",
     "name": "고유빈",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 1,
     "choices": {
@@ -10078,7 +10078,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -10244,7 +10244,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -10268,9 +10268,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-02",
+    "id": "12-2-02",
     "name": "권세종",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 2,
     "choices": {
@@ -10380,7 +10380,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -10546,7 +10546,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -10570,9 +10570,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-03",
+    "id": "12-2-03",
     "name": "김가은",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 3,
     "choices": {
@@ -10682,7 +10682,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -10848,7 +10848,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -10872,9 +10872,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-04",
+    "id": "12-2-04",
     "name": "김보경",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 4,
     "choices": {
@@ -10984,7 +10984,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -11150,7 +11150,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -11174,9 +11174,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-05",
+    "id": "12-2-05",
     "name": "김소윤",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 5,
     "choices": {
@@ -11286,7 +11286,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -11452,7 +11452,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -11476,9 +11476,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-06",
+    "id": "12-2-06",
     "name": "김소율",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 6,
     "choices": {
@@ -11588,7 +11588,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -11754,7 +11754,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -11778,9 +11778,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-07",
+    "id": "12-2-07",
     "name": "김시안",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 7,
     "choices": {
@@ -11890,7 +11890,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -12056,7 +12056,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -12080,9 +12080,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-08",
+    "id": "12-2-08",
     "name": "김예건",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 8,
     "choices": {
@@ -12192,7 +12192,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -12358,7 +12358,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -12382,9 +12382,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-09",
+    "id": "12-2-09",
     "name": "김재현",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 9,
     "choices": {
@@ -12494,7 +12494,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -12660,7 +12660,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -12684,9 +12684,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-10",
+    "id": "12-2-10",
     "name": "김채원",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 10,
     "choices": {
@@ -12796,7 +12796,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -12962,7 +12962,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -12986,9 +12986,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-11",
+    "id": "12-2-11",
     "name": "김형준",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 11,
     "choices": {
@@ -13098,7 +13098,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -13264,7 +13264,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -13288,9 +13288,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-12",
+    "id": "12-2-12",
     "name": "노하민",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 12,
     "choices": {
@@ -13400,7 +13400,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -13566,7 +13566,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -13590,9 +13590,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-14",
+    "id": "12-2-14",
     "name": "박영호",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 14,
     "choices": {
@@ -13702,7 +13702,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -13868,7 +13868,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -13892,9 +13892,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-15",
+    "id": "12-2-15",
     "name": "박주은",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 15,
     "choices": {
@@ -14004,7 +14004,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -14170,7 +14170,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -14194,9 +14194,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-16",
+    "id": "12-2-16",
     "name": "박진수",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 16,
     "choices": {
@@ -14306,7 +14306,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -14472,7 +14472,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -14496,9 +14496,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-17",
+    "id": "12-2-17",
     "name": "신승원",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 17,
     "choices": {
@@ -14608,7 +14608,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -14774,7 +14774,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -14798,9 +14798,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-18",
+    "id": "12-2-18",
     "name": "신재민",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 18,
     "choices": {
@@ -14910,7 +14910,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -15076,7 +15076,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -15100,9 +15100,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-19",
+    "id": "12-2-19",
     "name": "윤건일",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 19,
     "choices": {
@@ -15212,7 +15212,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -15378,7 +15378,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -15402,9 +15402,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-20",
+    "id": "12-2-20",
     "name": "윤예진",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 20,
     "choices": {
@@ -15514,7 +15514,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -15680,7 +15680,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -15704,9 +15704,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-21",
+    "id": "12-2-21",
     "name": "이소정",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 21,
     "choices": {
@@ -15816,7 +15816,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -15982,7 +15982,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -16006,9 +16006,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-22",
+    "id": "12-2-22",
     "name": "이준희",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 22,
     "choices": {
@@ -16118,7 +16118,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -16284,7 +16284,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -16308,9 +16308,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-23",
+    "id": "12-2-23",
     "name": "이지수",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 23,
     "choices": {
@@ -16420,7 +16420,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -16586,7 +16586,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -16610,9 +16610,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-24",
+    "id": "12-2-24",
     "name": "장우성",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 24,
     "choices": {
@@ -16722,7 +16722,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -16888,7 +16888,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -16912,9 +16912,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-25",
+    "id": "12-2-25",
     "name": "정승치",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 25,
     "choices": {
@@ -17024,7 +17024,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -17190,7 +17190,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -17214,9 +17214,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-26",
+    "id": "12-2-26",
     "name": "조현서",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 26,
     "choices": {
@@ -17326,7 +17326,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -17492,7 +17492,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -17516,9 +17516,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-27",
+    "id": "12-2-27",
     "name": "지혜원",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 27,
     "choices": {
@@ -17628,7 +17628,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -17794,7 +17794,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -17818,9 +17818,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-28",
+    "id": "12-2-28",
     "name": "차하늘",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 28,
     "choices": {
@@ -17930,7 +17930,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -18096,7 +18096,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -18120,9 +18120,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-29",
+    "id": "12-2-29",
     "name": "채규림",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 29,
     "choices": {
@@ -18232,7 +18232,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -18398,7 +18398,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -18422,9 +18422,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-30",
+    "id": "12-2-30",
     "name": "최은혜",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 30,
     "choices": {
@@ -18534,7 +18534,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -18700,7 +18700,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -18724,9 +18724,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-31",
+    "id": "12-2-31",
     "name": "최정호",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 31,
     "choices": {
@@ -18836,7 +18836,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -19002,7 +19002,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -19026,9 +19026,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-32",
+    "id": "12-2-32",
     "name": "최지윤",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 32,
     "choices": {
@@ -19138,7 +19138,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -19304,7 +19304,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -19328,9 +19328,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-2-33",
+    "id": "12-2-33",
     "name": "황해인",
-    "grade": 3,
+    "grade": 12,
     "classNum": 2,
     "studentNum": 33,
     "choices": {
@@ -19440,7 +19440,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "6": [
@@ -19606,7 +19606,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-2"
+            "room": "12-2"
           }
         ],
         "5": [
@@ -19630,9 +19630,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-01",
+    "id": "12-3-01",
     "name": "고은아",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 1,
     "choices": {
@@ -19742,7 +19742,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -19908,7 +19908,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -19932,9 +19932,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-02",
+    "id": "12-3-02",
     "name": "공태윤",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 2,
     "choices": {
@@ -20044,7 +20044,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -20210,7 +20210,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -20234,9 +20234,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-03",
+    "id": "12-3-03",
     "name": "권요안나",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 3,
     "choices": {
@@ -20346,7 +20346,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -20512,7 +20512,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -20536,9 +20536,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-04",
+    "id": "12-3-04",
     "name": "권태연",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 4,
     "choices": {
@@ -20648,7 +20648,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -20814,7 +20814,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -20838,9 +20838,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-05",
+    "id": "12-3-05",
     "name": "김예준",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 5,
     "choices": {
@@ -20950,7 +20950,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -21116,7 +21116,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -21140,9 +21140,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-06",
+    "id": "12-3-06",
     "name": "김의찬",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 6,
     "choices": {
@@ -21252,7 +21252,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -21418,7 +21418,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -21442,9 +21442,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-07",
+    "id": "12-3-07",
     "name": "김지환",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 7,
     "choices": {
@@ -21554,7 +21554,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -21720,7 +21720,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -21744,9 +21744,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-08",
+    "id": "12-3-08",
     "name": "노서진",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 8,
     "choices": {
@@ -21856,7 +21856,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -22022,7 +22022,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -22046,9 +22046,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-09",
+    "id": "12-3-09",
     "name": "박가을",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 9,
     "choices": {
@@ -22158,7 +22158,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -22324,7 +22324,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -22348,9 +22348,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-10",
+    "id": "12-3-10",
     "name": "박태겸",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 10,
     "choices": {
@@ -22460,7 +22460,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -22626,7 +22626,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -22650,9 +22650,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-11",
+    "id": "12-3-11",
     "name": "배동균",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 11,
     "choices": {
@@ -22762,7 +22762,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -22928,7 +22928,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -22952,9 +22952,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-12",
+    "id": "12-3-12",
     "name": "배석호",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 12,
     "choices": {
@@ -23064,7 +23064,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -23230,7 +23230,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -23254,9 +23254,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-13",
+    "id": "12-3-13",
     "name": "서동원",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 13,
     "choices": {
@@ -23366,7 +23366,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -23532,7 +23532,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -23556,9 +23556,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-14",
+    "id": "12-3-14",
     "name": "서민기",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 14,
     "choices": {
@@ -23668,7 +23668,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -23834,7 +23834,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -23858,9 +23858,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-15",
+    "id": "12-3-15",
     "name": "서보강",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 15,
     "choices": {
@@ -23970,7 +23970,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -24136,7 +24136,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -24160,9 +24160,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-16",
+    "id": "12-3-16",
     "name": "안이현",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 16,
     "choices": {
@@ -24272,7 +24272,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -24438,7 +24438,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -24462,9 +24462,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-17",
+    "id": "12-3-17",
     "name": "양찬희",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 17,
     "choices": {
@@ -24574,7 +24574,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -24740,7 +24740,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -24764,9 +24764,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-18",
+    "id": "12-3-18",
     "name": "오재윤",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 18,
     "choices": {
@@ -24876,7 +24876,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -25042,7 +25042,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -25066,9 +25066,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-19",
+    "id": "12-3-19",
     "name": "유한나",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 19,
     "choices": {
@@ -25178,7 +25178,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -25344,7 +25344,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -25368,9 +25368,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-20",
+    "id": "12-3-20",
     "name": "윤서준",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 20,
     "choices": {
@@ -25480,7 +25480,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -25646,7 +25646,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -25670,9 +25670,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-21",
+    "id": "12-3-21",
     "name": "이유나",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 21,
     "choices": {
@@ -25782,7 +25782,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -25948,7 +25948,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -25972,9 +25972,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-22",
+    "id": "12-3-22",
     "name": "이주아",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 22,
     "choices": {
@@ -26084,7 +26084,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -26250,7 +26250,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -26274,9 +26274,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-23",
+    "id": "12-3-23",
     "name": "이지원",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 23,
     "choices": {
@@ -26386,7 +26386,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -26552,7 +26552,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -26576,9 +26576,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-24",
+    "id": "12-3-24",
     "name": "임동한",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 24,
     "choices": {
@@ -26688,7 +26688,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -26854,7 +26854,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -26878,9 +26878,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-25",
+    "id": "12-3-25",
     "name": "임병찬",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 25,
     "choices": {
@@ -26990,7 +26990,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -27156,7 +27156,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -27180,9 +27180,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-26",
+    "id": "12-3-26",
     "name": "임준혁",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 26,
     "choices": {
@@ -27292,7 +27292,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -27458,7 +27458,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -27482,9 +27482,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-27",
+    "id": "12-3-27",
     "name": "장선아",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 27,
     "choices": {
@@ -27594,7 +27594,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -27760,7 +27760,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -27784,9 +27784,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-28",
+    "id": "12-3-28",
     "name": "정래훈",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 28,
     "choices": {
@@ -27896,7 +27896,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -28062,7 +28062,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -28086,9 +28086,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-29",
+    "id": "12-3-29",
     "name": "정예원",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 29,
     "choices": {
@@ -28198,7 +28198,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -28364,7 +28364,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -28388,9 +28388,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-30",
+    "id": "12-3-30",
     "name": "정윤서",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 30,
     "choices": {
@@ -28500,7 +28500,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -28666,7 +28666,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -28690,9 +28690,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-31",
+    "id": "12-3-31",
     "name": "조연제",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 31,
     "choices": {
@@ -28802,7 +28802,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -28968,7 +28968,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -28992,9 +28992,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-32",
+    "id": "12-3-32",
     "name": "조윤서",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 32,
     "choices": {
@@ -29104,7 +29104,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -29270,7 +29270,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -29294,9 +29294,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-3-33",
+    "id": "12-3-33",
     "name": "최원석",
-    "grade": 3,
+    "grade": 12,
     "classNum": 3,
     "studentNum": 33,
     "choices": {
@@ -29406,7 +29406,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "6": [
@@ -29572,7 +29572,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-3"
+            "room": "12-3"
           }
         ],
         "5": [
@@ -29596,9 +29596,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-01",
+    "id": "12-4-01",
     "name": "강연재",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 1,
     "choices": {
@@ -29708,7 +29708,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -29874,7 +29874,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -29898,9 +29898,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-02",
+    "id": "12-4-02",
     "name": "고승근",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 2,
     "choices": {
@@ -30010,7 +30010,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -30176,7 +30176,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -30200,9 +30200,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-03",
+    "id": "12-4-03",
     "name": "고은선",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 3,
     "choices": {
@@ -30312,7 +30312,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -30478,7 +30478,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -30502,9 +30502,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-04",
+    "id": "12-4-04",
     "name": "김시연",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 4,
     "choices": {
@@ -30614,7 +30614,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -30780,7 +30780,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -30804,9 +30804,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-05",
+    "id": "12-4-05",
     "name": "김유필",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 5,
     "choices": {
@@ -30916,7 +30916,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -31082,7 +31082,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -31106,9 +31106,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-06",
+    "id": "12-4-06",
     "name": "김윤희",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 6,
     "choices": {
@@ -31218,7 +31218,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -31384,7 +31384,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -31408,9 +31408,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-07",
+    "id": "12-4-07",
     "name": "김은수",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 7,
     "choices": {
@@ -31520,7 +31520,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -31686,7 +31686,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -31710,9 +31710,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-08",
+    "id": "12-4-08",
     "name": "김준호",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 8,
     "choices": {
@@ -31822,7 +31822,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -31988,7 +31988,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -32012,9 +32012,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-09",
+    "id": "12-4-09",
     "name": "김지혁",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 9,
     "choices": {
@@ -32124,7 +32124,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -32290,7 +32290,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -32314,9 +32314,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-10",
+    "id": "12-4-10",
     "name": "김태휘",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 10,
     "choices": {
@@ -32426,7 +32426,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -32592,7 +32592,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -32616,9 +32616,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-11",
+    "id": "12-4-11",
     "name": "김호건",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 11,
     "choices": {
@@ -32728,7 +32728,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -32894,7 +32894,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -32918,9 +32918,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-12",
+    "id": "12-4-12",
     "name": "노서윤",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 12,
     "choices": {
@@ -33030,7 +33030,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -33196,7 +33196,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -33220,9 +33220,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-13",
+    "id": "12-4-13",
     "name": "리한비",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 13,
     "choices": {
@@ -33332,7 +33332,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -33498,7 +33498,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -33522,9 +33522,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-14",
+    "id": "12-4-14",
     "name": "박범창",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 14,
     "choices": {
@@ -33634,7 +33634,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -33800,7 +33800,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -33824,9 +33824,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-15",
+    "id": "12-4-15",
     "name": "박시영",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 15,
     "choices": {
@@ -33936,7 +33936,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -34102,7 +34102,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -34126,9 +34126,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-16",
+    "id": "12-4-16",
     "name": "박영준",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 16,
     "choices": {
@@ -34238,7 +34238,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -34404,7 +34404,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -34428,9 +34428,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-17",
+    "id": "12-4-17",
     "name": "박준오",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 17,
     "choices": {
@@ -34540,7 +34540,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -34706,7 +34706,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -34730,9 +34730,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-18",
+    "id": "12-4-18",
     "name": "배서진",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 18,
     "choices": {
@@ -34842,7 +34842,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -35008,7 +35008,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -35032,9 +35032,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-19",
+    "id": "12-4-19",
     "name": "서동현",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 19,
     "choices": {
@@ -35144,7 +35144,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -35310,7 +35310,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -35334,9 +35334,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-20",
+    "id": "12-4-20",
     "name": "양지웅",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 20,
     "choices": {
@@ -35446,7 +35446,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -35612,7 +35612,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -35636,9 +35636,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-21",
+    "id": "12-4-21",
     "name": "오주원",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 21,
     "choices": {
@@ -35748,7 +35748,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -35914,7 +35914,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -35938,9 +35938,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-22",
+    "id": "12-4-22",
     "name": "오휼",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 22,
     "choices": {
@@ -36050,7 +36050,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -36216,7 +36216,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -36240,9 +36240,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-23",
+    "id": "12-4-23",
     "name": "유지우",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 23,
     "choices": {
@@ -36352,7 +36352,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -36518,7 +36518,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -36542,9 +36542,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-24",
+    "id": "12-4-24",
     "name": "이성현",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 24,
     "choices": {
@@ -36654,7 +36654,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -36820,7 +36820,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -36844,9 +36844,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-25",
+    "id": "12-4-25",
     "name": "이시우",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 25,
     "choices": {
@@ -36956,7 +36956,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -37122,7 +37122,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -37146,9 +37146,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-26",
+    "id": "12-4-26",
     "name": "임동민",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 26,
     "choices": {
@@ -37258,7 +37258,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -37424,7 +37424,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -37448,9 +37448,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-27",
+    "id": "12-4-27",
     "name": "임성하",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 27,
     "choices": {
@@ -37560,7 +37560,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -37726,7 +37726,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -37750,9 +37750,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-28",
+    "id": "12-4-28",
     "name": "임희진",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 28,
     "choices": {
@@ -37862,7 +37862,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -38028,7 +38028,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -38052,9 +38052,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-29",
+    "id": "12-4-29",
     "name": "장지원",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 29,
     "choices": {
@@ -38164,7 +38164,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -38330,7 +38330,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -38354,9 +38354,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-30",
+    "id": "12-4-30",
     "name": "정대용",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 30,
     "choices": {
@@ -38466,7 +38466,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -38632,7 +38632,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -38656,9 +38656,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-31",
+    "id": "12-4-31",
     "name": "정민교",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 31,
     "choices": {
@@ -38768,7 +38768,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -38934,7 +38934,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -38958,9 +38958,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-32",
+    "id": "12-4-32",
     "name": "정재완",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 32,
     "choices": {
@@ -39070,7 +39070,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -39236,7 +39236,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -39260,9 +39260,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-4-33",
+    "id": "12-4-33",
     "name": "홍지원",
-    "grade": 3,
+    "grade": 12,
     "classNum": 4,
     "studentNum": 33,
     "choices": {
@@ -39372,7 +39372,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "6": [
@@ -39538,7 +39538,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-4"
+            "room": "12-4"
           }
         ],
         "5": [
@@ -39562,9 +39562,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-01",
+    "id": "12-5-01",
     "name": "강여은",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 1,
     "choices": {
@@ -39674,7 +39674,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -39840,7 +39840,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -39864,9 +39864,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-02",
+    "id": "12-5-02",
     "name": "구경미",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 2,
     "choices": {
@@ -39976,7 +39976,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -40142,7 +40142,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -40166,9 +40166,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-03",
+    "id": "12-5-03",
     "name": "김도희",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 3,
     "choices": {
@@ -40278,7 +40278,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -40444,7 +40444,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -40468,9 +40468,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-04",
+    "id": "12-5-04",
     "name": "김세린",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 4,
     "choices": {
@@ -40580,7 +40580,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -40746,7 +40746,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -40770,9 +40770,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-05",
+    "id": "12-5-05",
     "name": "김윤하",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 5,
     "choices": {
@@ -40882,7 +40882,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -41048,7 +41048,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -41072,9 +41072,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-06",
+    "id": "12-5-06",
     "name": "김지유",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 6,
     "choices": {
@@ -41184,7 +41184,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -41350,7 +41350,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -41374,9 +41374,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-07",
+    "id": "12-5-07",
     "name": "김하임",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 7,
     "choices": {
@@ -41486,7 +41486,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -41652,7 +41652,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -41676,9 +41676,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-08",
+    "id": "12-5-08",
     "name": "김호겸",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 8,
     "choices": {
@@ -41788,7 +41788,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -41954,7 +41954,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -41978,9 +41978,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-09",
+    "id": "12-5-09",
     "name": "박시찬",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 9,
     "choices": {
@@ -42090,7 +42090,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -42256,7 +42256,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -42280,9 +42280,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-10",
+    "id": "12-5-10",
     "name": "박요한",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 10,
     "choices": {
@@ -42392,7 +42392,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -42558,7 +42558,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -42582,9 +42582,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "2-5-10",
+    "id": "12-5-10",
     "name": "김민이",
-    "grade": 2,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 10,
     "choices": {
@@ -42694,7 +42694,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "2-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -42860,7 +42860,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "2-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -42884,9 +42884,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-11",
+    "id": "12-5-11",
     "name": "박유한",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 11,
     "choices": {
@@ -42996,7 +42996,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -43162,7 +43162,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -43186,9 +43186,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-12",
+    "id": "12-5-12",
     "name": "박주영",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 12,
     "choices": {
@@ -43298,7 +43298,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -43464,7 +43464,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -43488,9 +43488,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-13",
+    "id": "12-5-13",
     "name": "배지민",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 13,
     "choices": {
@@ -43600,7 +43600,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -43766,7 +43766,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -43790,9 +43790,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-14",
+    "id": "12-5-14",
     "name": "백상훈",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 14,
     "choices": {
@@ -43902,7 +43902,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -44068,7 +44068,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -44092,9 +44092,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-15",
+    "id": "12-5-15",
     "name": "송하윤",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 15,
     "choices": {
@@ -44204,7 +44204,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -44370,7 +44370,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -44394,9 +44394,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-16",
+    "id": "12-5-16",
     "name": "신혜영",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 16,
     "choices": {
@@ -44506,7 +44506,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -44672,7 +44672,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -44696,9 +44696,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-17",
+    "id": "12-5-17",
     "name": "안지후",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 17,
     "choices": {
@@ -44808,7 +44808,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -44974,7 +44974,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -44998,9 +44998,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-18",
+    "id": "12-5-18",
     "name": "양시우",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 18,
     "choices": {
@@ -45110,7 +45110,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -45276,7 +45276,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -45300,9 +45300,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-19",
+    "id": "12-5-19",
     "name": "어지민",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 19,
     "choices": {
@@ -45412,7 +45412,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -45578,7 +45578,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -45602,9 +45602,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-20",
+    "id": "12-5-20",
     "name": "우연지",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 20,
     "choices": {
@@ -45714,7 +45714,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -45880,7 +45880,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -45904,9 +45904,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-21",
+    "id": "12-5-21",
     "name": "윤수아",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 21,
     "choices": {
@@ -46016,7 +46016,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -46182,7 +46182,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -46206,9 +46206,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-22",
+    "id": "12-5-22",
     "name": "이소라",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 22,
     "choices": {
@@ -46318,7 +46318,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -46484,7 +46484,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -46508,9 +46508,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-23",
+    "id": "12-5-23",
     "name": "이시후",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 23,
     "choices": {
@@ -46620,7 +46620,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -46786,7 +46786,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -46810,9 +46810,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-24",
+    "id": "12-5-24",
     "name": "이은서",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 24,
     "choices": {
@@ -46922,7 +46922,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -47088,7 +47088,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -47112,9 +47112,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-25",
+    "id": "12-5-25",
     "name": "임가현",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 25,
     "choices": {
@@ -47224,7 +47224,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -47390,7 +47390,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -47414,9 +47414,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-26",
+    "id": "12-5-26",
     "name": "임고은",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 26,
     "choices": {
@@ -47526,7 +47526,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -47692,7 +47692,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -47716,9 +47716,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-27",
+    "id": "12-5-27",
     "name": "정가현",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 27,
     "choices": {
@@ -47828,7 +47828,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -47994,7 +47994,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -48018,9 +48018,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-28",
+    "id": "12-5-28",
     "name": "정연우",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 28,
     "choices": {
@@ -48130,7 +48130,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -48296,7 +48296,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -48320,9 +48320,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-29",
+    "id": "12-5-29",
     "name": "조우진",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 29,
     "choices": {
@@ -48432,7 +48432,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -48598,7 +48598,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -48622,9 +48622,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-30",
+    "id": "12-5-30",
     "name": "최승아",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 30,
     "choices": {
@@ -48734,7 +48734,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -48900,7 +48900,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -48924,9 +48924,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-31",
+    "id": "12-5-31",
     "name": "황예은",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 31,
     "choices": {
@@ -49036,7 +49036,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -49202,7 +49202,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -49226,9 +49226,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-32",
+    "id": "12-5-32",
     "name": "황의훈",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 32,
     "choices": {
@@ -49338,7 +49338,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -49504,7 +49504,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
@@ -49528,9 +49528,9 @@ window.STUDENTS_DATA = [
     }
   },
   {
-    "id": "3-5-33",
+    "id": "12-5-33",
     "name": "황한나",
-    "grade": 3,
+    "grade": 12,
     "classNum": 5,
     "studentNum": 33,
     "choices": {
@@ -49640,7 +49640,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "6": [
@@ -49806,7 +49806,7 @@ window.STUDENTS_DATA = [
             "subject": "SDG's",
             "group": "SDG",
             "teacher": "담당교사",
-            "room": "3-5"
+            "room": "12-5"
           }
         ],
         "5": [
