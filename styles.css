@@ -1,0 +1,702 @@
+/* ==========================================================================
+   12학년 2학기 시간표 시스템 - 메인 디자인 시스템 & 스타일시트 (styles.css)
+   ========================================================================== */
+
+/* 1. 디자인 변수 (CSS Custom Properties) */
+:root {
+  /* 라이트 테마 칼라 팔레트 */
+  --bg-main: #f8fafc;
+  --bg-surface: #ffffff;
+  --bg-subtle: #f1f5f9;
+  --border-color: #e2e8f0;
+  
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-muted: #94a3b8;
+  
+  --primary-color: #4f46e5;
+  --primary-hover: #4338ca;
+  --primary-light: #eef2ff;
+  
+  --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05), 0 2px 4px -2px rgba(0, 0, 0, 0.05);
+  --card-shadow-hover: 0 10px 15px -3px rgba(0, 0, 0, 0.08), 0 4px 6px -4px rgba(0, 0, 0, 0.05);
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  
+  /* 선택군(A~H) 및 SDG 과목별 파스텔 토큰 컬러 (라이트 모드) */
+  --group-a-bg: #e0f2fe; --group-a-text: #0369a1; --group-a-border: #bae6fd; /* 스카이블루 */
+  --group-b-bg: #fce7f3; --group-b-text: #be185d; --group-b-border: #fbcfe8; /* 핑크 */
+  --group-c-bg: #dcfce7; --group-c-text: #15803d; --group-c-border: #bbf7d0; /* 그린 */
+  --group-d-bg: #fef3c7; --group-d-text: #b45309; --group-d-border: #fde68a; /* 앰버 */
+  --group-e-bg: #f3e8ff; --group-e-text: #6b21a8; --group-e-border: #e9d5ff; /* 퍼플 */
+  --group-f-bg: #ffedd5; --group-f-text: #c2410c; --group-f-border: #fed7aa; /* 오렌지 */
+  --group-g-bg: #ccfbf1; --group-g-text: #0f766e; --group-g-border: #99f6e4; /* 민트 */
+  --group-h-bg: #e0e7ff; --group-h-text: #3730a3; --group-h-border: #c7d2fe; /* 인디고 */
+  --group-sdg-bg: #d1fae5; --group-sdg-text: #047857; --group-sdg-border: #6ee7b7; /* 에메랄드 (SDG's) */
+  
+  --transition-fast: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* 다크 테마 칼라 팔레트 */
+[data-theme="dark"] {
+  --bg-main: #0f172a;
+  --bg-surface: #1e293b;
+  --bg-subtle: #334155;
+  --border-color: #334155;
+  
+  --text-primary: #f8fafc;
+  --text-secondary: #cbd5e1;
+  --text-muted: #64748b;
+  
+  --primary-color: #6366f1;
+  --primary-hover: #818cf8;
+  --primary-light: #1e1b4b;
+  
+  --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.3);
+  --card-shadow-hover: 0 10px 15px -3px rgba(0, 0, 0, 0.4);
+  
+  /* 선택군(A~H) 및 SDG 과목별 파스텔 토큰 컬러 (다크 모드) */
+  --group-a-bg: #075985; --group-a-text: #e0f2fe; --group-a-border: #0284c7;
+  --group-b-bg: #9d174d; --group-b-text: #fce7f3; --group-b-border: #be185d;
+  --group-c-bg: #166534; --group-c-text: #dcfce7; --group-c-border: #15803d;
+  --group-d-bg: #92400e; --group-d-text: #fef3c7; --group-d-border: #b45309;
+  --group-e-bg: #581c87; --group-e-text: #f3e8ff; --group-e-border: #7e22ce;
+  --group-f-bg: #9a3412; --group-f-text: #ffedd5; --group-f-border: #c2410c;
+  --group-g-bg: #115e59; --group-g-text: #ccfbf1; --group-g-border: #0f766e;
+  --group-h-bg: #3730a3; --group-h-text: #e0e7ff; --group-h-border: #4338ca;
+  --group-sdg-bg: #065f46; --group-sdg-text: #d1fae5; --group-sdg-border: #047857;
+}
+
+/* 2. 글로벌 리셋 & 폰트 설정 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Noto Sans KR', 'Outfit', sans-serif;
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+  line-height: 1.5;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* 3. 헤더 레이아웃 */
+.app-header {
+  background-color: var(--bg-surface);
+  border-bottom: 1px solid var(--border-color);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: var(--card-shadow);
+}
+
+.header-container {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0.85rem 1.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-area {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.logo-icon {
+  width: 44px;
+  height: 44px;
+  background: linear-gradient(135deg, #4f46e5, #06b6d4);
+  color: #ffffff;
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3rem;
+  box-shadow: 0 4px 10px rgba(79, 70, 229, 0.3);
+}
+
+.app-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  letter-spacing: -0.02em;
+}
+
+.app-subtitle {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.icon-btn {
+  background: var(--bg-subtle);
+  border: 1px solid var(--border-color);
+  color: var(--text-primary);
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: var(--transition-fast);
+}
+
+.icon-btn:hover {
+  background-color: var(--primary-light);
+  color: var(--primary-color);
+  transform: translateY(-1px);
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius-sm);
+  font-weight: 600;
+  font-size: 0.875rem;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  border: none;
+  transition: var(--transition-fast);
+}
+
+.btn-secondary {
+  background-color: var(--bg-subtle);
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+}
+
+.btn-secondary:hover {
+  background-color: var(--border-color);
+}
+
+/* 4. 메인 컨테이너 (그리드 2컬럼) */
+.main-container {
+  max-width: 1400px;
+  width: 100%;
+  margin: 1.5rem auto;
+  padding: 0 1.5rem;
+  display: grid;
+  grid-template-columns: 320px 1fr;
+  gap: 1.5rem;
+  flex: 1;
+}
+
+/* 5. 좌측 패널 (학생 검색 & 목록) */
+.search-panel {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 1.25rem;
+  box-shadow: var(--card-shadow);
+  display: flex;
+  flex-direction: column;
+  height: calc(100vh - 120px);
+  position: sticky;
+  top: 90px;
+}
+
+.panel-header h2 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--primary-color);
+}
+
+.filter-group {
+  margin-bottom: 0.85rem;
+}
+
+.filter-group label {
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  margin-bottom: 0.35rem;
+}
+
+.custom-select {
+  width: 100%;
+  padding: 0.6rem 0.8rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-color);
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+  font-size: 0.9rem;
+  outline: none;
+  cursor: pointer;
+}
+
+.custom-select:focus {
+  border-color: var(--primary-color);
+}
+
+.search-input-wrapper {
+  position: relative;
+  margin-bottom: 0.75rem;
+}
+
+.search-icon {
+  position: absolute;
+  left: 0.8rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.search-input {
+  width: 100%;
+  padding: 0.65rem 2.2rem 0.65rem 2.3rem;
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-color);
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+  font-size: 0.9rem;
+  outline: none;
+}
+
+.search-input:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 0 0 3px rgba(79, 70, 229, 0.1);
+}
+
+.clear-btn {
+  position: absolute;
+  right: 0.6rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  color: var(--text-muted);
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+.student-count-info {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+.student-list-wrapper {
+  flex: 1;
+  overflow-y: auto;
+  padding-right: 4px;
+}
+
+/* 커스텀 스크롤바 */
+.student-list-wrapper::-webkit-scrollbar {
+  width: 5px;
+}
+.student-list-wrapper::-webkit-scrollbar-thumb {
+  background-color: var(--border-color);
+  border-radius: 4px;
+}
+
+.student-list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+}
+
+.student-item {
+  padding: 0.65rem 0.85rem;
+  border-radius: var(--radius-sm);
+  background-color: var(--bg-main);
+  border: 1px solid transparent;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: var(--transition-fast);
+}
+
+.student-item:hover {
+  background-color: var(--primary-light);
+  border-color: var(--border-color);
+}
+
+.student-item.active {
+  background-color: var(--primary-color);
+  color: #ffffff;
+}
+
+.student-item.active .student-class {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.student-name-text {
+  font-weight: 600;
+  font-size: 0.925rem;
+}
+
+.student-class {
+  font-size: 0.775rem;
+  color: var(--text-muted);
+}
+
+/* 6. 우측 시간표 섹션 */
+.timetable-section {
+  display: flex;
+  flex-direction: column;
+}
+
+.empty-state {
+  background-color: var(--bg-surface);
+  border: 2px dashed var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 5rem 2rem;
+  text-align: center;
+  color: var(--text-muted);
+}
+
+.empty-icon {
+  font-size: 3.5rem;
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+  opacity: 0.6;
+}
+
+.empty-state h3 {
+  font-size: 1.25rem;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+/* 학생 프로필 카드 */
+.student-profile-card {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 1.25rem 1.5rem;
+  margin-bottom: 1.25rem;
+  box-shadow: var(--card-shadow);
+}
+
+.profile-main {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.avatar-circle {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #4f46e5, #ec4899);
+  color: #ffffff;
+  font-size: 1.5rem;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 10px rgba(236, 72, 153, 0.25);
+}
+
+.profile-info h2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+.profile-badges {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.badge {
+  font-size: 0.75rem;
+  font-weight: 600;
+  padding: 0.25rem 0.65rem;
+  border-radius: 20px;
+}
+
+.badge-primary {
+  background-color: var(--primary-light);
+  color: var(--primary-color);
+}
+
+.badge-outline {
+  border: 1px solid var(--border-color);
+  color: var(--text-secondary);
+}
+
+.choices-summary h4 {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.6rem;
+  font-weight: 600;
+}
+
+.chips-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.choice-chip {
+  padding: 0.35rem 0.75rem;
+  border-radius: 8px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  cursor: pointer;
+  border: 1px solid transparent;
+  transition: var(--transition-fast);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.choice-chip:hover {
+  transform: translateY(-1px);
+  filter: brightness(0.95);
+}
+
+.choice-chip.active-highlight {
+  box-shadow: 0 0 0 2px var(--primary-color);
+  transform: scale(1.03);
+}
+
+/* 7. 타임테이블 카드 & 그리드 (행과 열 크기 100% 균등 고정) */
+.timetable-card {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 1.25rem 1.5rem;
+  box-shadow: var(--card-shadow);
+}
+
+.timetable-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.timetable-card-header h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.tip-text {
+  font-size: 0.775rem;
+  color: var(--text-muted);
+}
+
+.table-responsive {
+  width: 100%;
+  overflow-x: auto;
+}
+
+/* table-layout: fixed 및 비율 지정으로 열(Width) 크기 100% 고정 */
+.timetable-grid {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: separate;
+  border-spacing: 8px;
+}
+
+.timetable-grid th {
+  background-color: var(--bg-subtle);
+  color: var(--text-secondary);
+  font-weight: 700;
+  font-size: 0.875rem;
+  padding: 0.75rem 0.5rem;
+  border-radius: var(--radius-sm);
+  text-align: center;
+}
+
+/* 교시 열은 10%, 월~금 5개 열은 각각 18%씩 정확하게 분할 */
+.timetable-grid th.period-col {
+  width: 10%;
+}
+
+.timetable-grid th:not(.period-col) {
+  width: 18%;
+}
+
+/* 모든 행(Row) 및 셀(Cell)의 높이를 102px로 수업위치 포함 여유롭게 고정 */
+.timetable-grid tr {
+  height: 102px;
+}
+
+.timetable-grid td {
+  height: 102px;
+  vertical-align: middle;
+  text-align: center;
+  border-radius: var(--radius-sm);
+  background-color: var(--bg-main);
+  padding: 0;
+  transition: var(--transition-fast);
+}
+
+.period-cell {
+  background-color: var(--bg-subtle) !important;
+  font-weight: 700;
+  color: var(--text-secondary);
+  font-size: 0.85rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  border-radius: var(--radius-sm);
+}
+
+/* 타임테이블 각 과목 카드 박스 (100% 채움) */
+.subject-cell-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  border-radius: var(--radius-sm);
+  padding: 0.35rem 0.25rem;
+  border: 1px solid transparent;
+  transition: var(--transition-fast);
+  box-sizing: border-box;
+}
+
+/* 과목 이름 폰트 크기 및 스타일 */
+.subject-name {
+  font-weight: 800;
+  font-size: 0.9rem;
+  line-height: 1.2;
+  margin-bottom: 0.1rem;
+  word-break: keep-all;
+  text-align: center;
+  letter-spacing: -0.01em;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* 담당 선생님 이름 및 수업 위치 스타일 */
+.info-row {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 0.08rem;
+  margin-bottom: 0.08rem;
+}
+
+.teacher-name {
+  font-size: 0.725rem;
+  font-weight: 600;
+  opacity: 0.9;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.15rem;
+}
+
+/* 수업 위치 (교실 장소) 스타일 */
+.room-location {
+  font-size: 0.685rem;
+  font-weight: 700;
+  opacity: 0.88;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.15rem;
+}
+
+/* 선택 과목 그룹 배지 스타일 */
+.group-badge {
+  font-size: 0.625rem;
+  font-weight: 700;
+  padding: 0.08rem 0.35rem;
+  border-radius: 4px;
+  opacity: 0.85;
+  margin-top: 0.05rem;
+}
+
+/* 과목별 그룹(A~H 및 SDG) 색상 클래스 적용 */
+.group-A { background-color: var(--group-a-bg); color: var(--group-a-text); border-color: var(--group-a-border); }
+.group-B { background-color: var(--group-b-bg); color: var(--group-b-text); border-color: var(--group-b-border); }
+.group-C { background-color: var(--group-c-bg); color: var(--group-c-text); border-color: var(--group-c-border); }
+.group-D { background-color: var(--group-d-bg); color: var(--group-d-text); border-color: var(--group-d-border); }
+.group-E { background-color: var(--group-e-bg); color: var(--group-e-text); border-color: var(--group-e-border); }
+.group-F { background-color: var(--group-f-bg); color: var(--group-f-text); border-color: var(--group-f-border); }
+.group-G { background-color: var(--group-g-bg); color: var(--group-g-text); border-color: var(--group-g-border); }
+.group-H { background-color: var(--group-h-bg); color: var(--group-h-text); border-color: var(--group-h-border); }
+.group-SDG { background-color: var(--group-sdg-bg); color: var(--group-sdg-text); border-color: var(--group-sdg-border); }
+
+/* 수강 교시 하이라이트 강한 효과 */
+.highlight-period {
+  transform: scale(1.05);
+  box-shadow: 0 0 0 3px var(--primary-color) !important;
+  z-index: 10;
+}
+
+/* 8. 푸터 스타일 */
+.app-footer {
+  text-align: center;
+  padding: 1.25rem;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border-color);
+  margin-top: 2rem;
+  background-color: var(--bg-surface);
+}
+
+/* 9. 반응형 미디어 쿼리 (모바일 / 태블릿) */
+@media (max-width: 900px) {
+  .main-container {
+    grid-template-columns: 1fr;
+  }
+  
+  .search-panel {
+    height: auto;
+    position: static;
+  }
+  
+  .student-list-wrapper {
+    max-height: 200px;
+  }
+}
+
+/* 10. 인쇄용 CSS (@media print) */
+@media print {
+  body {
+    background-color: #ffffff !important;
+    color: #000000 !important;
+  }
+  .app-header, .search-panel, .app-footer, .tip-text {
+    display: none !important;
+  }
+  .main-container {
+    display: block !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    max-width: 100% !important;
+  }
+  .timetable-section {
+    width: 100% !important;
+  }
+  .student-profile-card, .timetable-card {
+    box-shadow: none !important;
+    border: 1px solid #ccc !important;
+  }
+}

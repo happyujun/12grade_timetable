@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>12학년 2학기 학생 맞춤 시간표 조회 시스템</title>
+  <meta name="description" content="2026학년도 12학년 2학기 개별 학생 선택과목 시간표 조회 웹 애플리케이션입니다.">
+  <!-- 구글 폰트: Outfit (영어/숫자) 및 Noto Sans KR (한글) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;600;700;800&family=Outfit:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <!-- 폰트어썸 아이콘 -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+  <!-- 외부 스타일시트 -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <!-- 헤더 영역 -->
+  <header class="app-header">
+    <div class="header-container">
+      <div class="logo-area">
+        <div class="logo-icon">
+          <i class="fa-solid fa-calendar-days"></i>
+        </div>
+        <div>
+          <h1 class="app-title">12학년 2학기 시간표 조회</h1>
+          <p class="app-subtitle">2026학년도 12학년 학생 맞춤 선택과목 시간표 시스템</p>
+        </div>
+      </div>
+      <!-- 테마 토글 및 유틸리티 버튼 -->
+      <div class="header-actions">
+        <button id="themeToggleBtn" class="icon-btn" title="다크/라이트 모드 전환" aria-label="테마 전환">
+          <i class="fa-solid fa-moon"></i>
+        </button>
+        <button id="printBtn" class="btn btn-secondary" title="시간표 인쇄">
+          <i class="fa-solid fa-print"></i> 인쇄
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- 메인 컨텐츠 영역 -->
+  <main class="main-container">
+    <!-- 좌측/상단 검색 및 학생 목록 패널 -->
+    <aside class="search-panel">
+      <div class="panel-header">
+        <h2><i class="fa-solid fa-user-graduate"></i> 학생 검색</h2>
+      </div>
+
+      <!-- 반 필터링 드롭다운 -->
+      <div class="filter-group">
+        <label for="classSelect"><i class="fa-solid fa-users"></i> 학급 선택</label>
+        <select id="classSelect" class="custom-select">
+          <option value="all">전체 (1~5반)</option>
+          <option value="1">3학년 1반</option>
+          <option value="2">3학년 2반</option>
+          <option value="3">3학년 3반</option>
+          <option value="4">3학년 4반</option>
+          <option value="5">3학년 5반</option>
+        </select>
+      </div>
+
+      <!-- 학생 이름/번호 검색 입력창 -->
+      <div class="search-input-wrapper">
+        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+        <input type="text" id="searchInput" class="search-input" placeholder="학생 이름 검색..." autocomplete="off">
+        <button id="clearSearchBtn" class="clear-btn" style="display: none;">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+
+      <!-- 학생 카운트 정보 -->
+      <div class="student-count-info">
+        총 <span id="totalStudentsCount">0</span>명의 학생
+      </div>
+
+      <!-- 학생 목록 리스트 (스크롤) -->
+      <div class="student-list-wrapper">
+        <ul id="studentList" class="student-list">
+          <!-- JS로 동적 생성 -->
+        </ul>
+      </div>
+    </aside>
+
+    <!-- 우측 시간표 상세보기 영역 -->
+    <section class="timetable-section">
+      <!-- 학생 미선택 시 표출되는 엠티 스테이트 -->
+      <div id="emptyState" class="empty-state">
+        <div class="empty-icon">
+          <i class="fa-solid fa-address-card"></i>
+        </div>
+        <h3>학생을 선택해주세요</h3>
+        <p>왼쪽 목록에서 학생 이름을 검색하거나 클릭하면<br>2학기 맞춤 주간 시간표가 표시됩니다.</p>
+      </div>
+
+      <!-- 학생 선택 시 표출되는 시간표 상세 카드 -->
+      <div id="timetableContent" class="timetable-content" style="display: none;">
+        <!-- 선택된 학생 프로필 카드 -->
+        <div class="student-profile-card">
+          <div class="profile-main">
+            <div class="avatar-circle">
+              <span id="avatarInitial">학</span>
+            </div>
+            <div class="profile-info">
+              <h2 id="studentName">학생 이름</h2>
+              <div class="profile-badges">
+                <span id="studentClassBadge" class="badge badge-primary">3학년 1반 1번</span>
+                <span class="badge badge-outline">2학기 수강시간표</span>
+              </div>
+            </div>
+          </div>
+          <div class="choices-summary">
+            <h4><i class="fa-solid fa-book-bookmark"></i> 선택 과목 (총 8과목)</h4>
+            <div id="choicesChips" class="chips-container">
+              <!-- 선택과목 칩 동적 생성 -->
+            </div>
+          </div>
+        </div>
+
+        <!-- 시간표 그리드 영역 -->
+        <div class="timetable-card">
+          <div class="timetable-card-header">
+            <h3><i class="fa-solid fa-table-cells"></i> 주간 시간표 (월 ~ 금)</h3>
+            <span class="tip-text"><i class="fa-solid fa-lightbulb"></i> 과목 칩을 클릭하면 해당 수업 교시가 하이라이트됩니다.</span>
+          </div>
+
+          <!-- 타임테이블 테이블 -->
+          <div class="table-responsive">
+            <table class="timetable-grid">
+              <thead>
+                <tr>
+                  <th class="period-col">교시</th>
+                  <th>월요일</th>
+                  <th>화요일</th>
+                  <th>수요일</th>
+                  <th>목요일</th>
+                  <th>금요일</th>
+                </tr>
+              </thead>
+              <tbody id="timetableBody">
+                <!-- JS로 1~7교시 행 동적 생성 -->
+              </tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- 푸터 영역 -->
+  <footer class="app-footer">
+    <p>2026학년도 12학년 2학기 시간표 시스템 &copy; Antigravity timetable viewer</p>
+  </footer>
+
+  <!-- 학생 데이터 파일 스크립트 (CORS 보안 이슈 없이 즉시 로드) -->
+  <script src="students_data.js"></script>
+  <!-- 메인 스크립트 연동 -->
+  <script src="app.js"></script>
+</body>
+</html>
