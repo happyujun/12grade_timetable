@@ -673,7 +673,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -707,7 +707,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -799,7 +799,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -897,7 +897,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -1849,7 +1849,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -1907,7 +1907,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -1989,7 +1989,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -2015,7 +2015,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -2787,7 +2787,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -2821,7 +2821,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -2913,7 +2913,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -3011,7 +3011,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -3995,7 +3995,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -4029,7 +4029,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -4121,7 +4121,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -4219,7 +4219,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -7921,7 +7921,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -7955,7 +7955,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -8047,7 +8047,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -8145,7 +8145,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -9097,7 +9097,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -9155,7 +9155,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -9237,7 +9237,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -9263,7 +9263,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -12451,7 +12451,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -12485,7 +12485,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -12577,7 +12577,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -12675,7 +12675,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -13627,7 +13627,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -13685,7 +13685,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -13767,7 +13767,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -13793,7 +13793,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -14263,7 +14263,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -14297,7 +14297,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -14389,7 +14389,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -14487,7 +14487,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -15169,7 +15169,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -15203,7 +15203,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -15295,7 +15295,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -15393,7 +15393,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -16377,7 +16377,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -16411,7 +16411,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -16503,7 +16503,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -16601,7 +16601,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -16981,7 +16981,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -17015,7 +17015,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -17107,7 +17107,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -17205,7 +17205,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -18189,7 +18189,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -18223,7 +18223,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -18315,7 +18315,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -18413,7 +18413,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -18491,7 +18491,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -18525,7 +18525,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -18617,7 +18617,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -18715,7 +18715,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -18761,7 +18761,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -18819,7 +18819,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -18901,7 +18901,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -18927,7 +18927,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -19063,7 +19063,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -19121,7 +19121,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -19203,7 +19203,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -19229,7 +19229,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -23021,7 +23021,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -23055,7 +23055,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -23147,7 +23147,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -23245,7 +23245,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -26947,7 +26947,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -26981,7 +26981,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -27073,7 +27073,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -27171,7 +27171,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -28123,7 +28123,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -28181,7 +28181,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -28263,7 +28263,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -28289,7 +28289,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -29029,7 +29029,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -29087,7 +29087,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -29169,7 +29169,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -29195,7 +29195,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -29331,7 +29331,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -29389,7 +29389,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -29471,7 +29471,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -29497,7 +29497,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -30571,7 +30571,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -30605,7 +30605,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -30697,7 +30697,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -30795,7 +30795,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -31779,7 +31779,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -31813,7 +31813,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -31905,7 +31905,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -32003,7 +32003,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -38089,7 +38089,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -38147,7 +38147,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -38229,7 +38229,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -38255,7 +38255,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -39901,7 +39901,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -39959,7 +39959,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -40041,7 +40041,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -40067,7 +40067,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -40203,7 +40203,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -40261,7 +40261,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -40343,7 +40343,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -40369,7 +40369,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -42651,7 +42651,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -42685,7 +42685,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -42777,7 +42777,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -42875,7 +42875,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -43859,7 +43859,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -43893,7 +43893,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -43985,7 +43985,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -44083,7 +44083,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -44765,7 +44765,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -44799,7 +44799,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -44891,7 +44891,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -44989,7 +44989,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -45639,7 +45639,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -45697,7 +45697,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -45779,7 +45779,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -45805,7 +45805,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -45941,7 +45941,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -45999,7 +45999,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -46081,7 +46081,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -46107,7 +46107,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "B",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-3"
           }
         ],
@@ -48087,7 +48087,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -48121,7 +48121,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -48213,7 +48213,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -48311,7 +48311,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -49295,7 +49295,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -49329,7 +49329,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -49421,7 +49421,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -49519,7 +49519,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -49597,7 +49597,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ]
@@ -49631,7 +49631,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -49723,7 +49723,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
@@ -49821,7 +49821,7 @@ window.STUDENTS_DATA = [
           {
             "subject": "미술 감상과 비평",
             "group": "E",
-            "teacher": "김옥출",
+            "teacher": "김보연",
             "room": "11-4"
           }
         ],
