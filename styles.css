@@ -578,10 +578,10 @@ body {
 .timetable-grid th.period-col { width: 9%; }
 .timetable-grid th:not(.period-col) { width: 18.2%; }
 
-.timetable-grid tr { height: 96px; }
+.timetable-grid tr { height: 108px; }
 
 .timetable-grid td {
-  height: 96px;
+  height: 108px;
   vertical-align: middle;
   text-align: center;
   border-radius: var(--radius-sm);
@@ -620,14 +620,15 @@ body {
 
 .subject-name {
   font-weight: 800;
-  font-size: 0.85rem;
+  font-size: 0.82rem;         /* 긴 영어명도 셀 안에 들어오도록 약간 축소 */
   line-height: 1.2;
-  margin-bottom: 0.08rem;
-  word-break: keep-all;
+  margin-bottom: 0.06rem;
+  word-break: break-word;     /* 긴 영어 단어도 줄바꿈 허용 */
+  overflow-wrap: break-word;  /* 추가 보장 */
   text-align: center;
   letter-spacing: -0.01em;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;      /* 최대 3줄까지 허용 (2줄 → 3줄) */
   -webkit-box-orient: vertical;
   overflow: hidden;
 }

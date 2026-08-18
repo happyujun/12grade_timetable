@@ -70,7 +70,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ]
       },
@@ -104,7 +104,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -196,7 +196,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -294,7 +294,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -674,7 +674,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -708,7 +708,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -800,7 +800,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -898,7 +898,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -952,7 +952,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -994,7 +994,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -1092,7 +1092,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ]
       },
@@ -1118,7 +1118,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -1580,7 +1580,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ]
       },
@@ -1614,7 +1614,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -1706,7 +1706,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -1804,7 +1804,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -1850,7 +1850,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -1908,7 +1908,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -1990,7 +1990,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "7": [
@@ -2016,7 +2016,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "3": [
@@ -2788,7 +2788,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -2822,7 +2822,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -2914,7 +2914,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -3012,7 +3012,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -3694,7 +3694,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ]
       },
@@ -3728,7 +3728,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -3820,7 +3820,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -3918,7 +3918,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -3972,7 +3972,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -3996,7 +3996,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -4014,7 +4014,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -4030,7 +4030,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -4112,7 +4112,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ]
       },
@@ -4122,7 +4122,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -4138,7 +4138,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -4220,7 +4220,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -5506,7 +5506,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ]
       },
@@ -5540,7 +5540,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -5632,7 +5632,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -5730,7 +5730,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -5808,7 +5808,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ]
       },
@@ -5842,7 +5842,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -5934,7 +5934,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -6032,7 +6032,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -6110,7 +6110,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ]
       },
@@ -6144,7 +6144,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -6236,7 +6236,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -6334,7 +6334,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -6412,7 +6412,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ]
       },
@@ -6446,7 +6446,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -6538,7 +6538,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -6636,7 +6636,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -6714,7 +6714,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ]
       },
@@ -6748,7 +6748,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -6840,7 +6840,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -6938,7 +6938,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -7294,7 +7294,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -7336,7 +7336,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -7434,7 +7434,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ]
       },
@@ -7460,7 +7460,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -7922,7 +7922,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -7956,7 +7956,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -8048,7 +8048,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -8146,7 +8146,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -8200,7 +8200,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -8242,7 +8242,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -8340,7 +8340,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-1"
+            "room": "정보A"
           }
         ]
       },
@@ -8366,7 +8366,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-1"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -9098,7 +9098,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -9156,7 +9156,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -9238,7 +9238,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "7": [
@@ -9264,7 +9264,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "3": [
@@ -10012,7 +10012,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -10054,7 +10054,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -10152,7 +10152,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -10178,7 +10178,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -11220,7 +11220,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -11262,7 +11262,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -11360,7 +11360,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -11386,7 +11386,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -11848,7 +11848,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -11882,7 +11882,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -11974,7 +11974,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -12072,7 +12072,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -12150,7 +12150,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -12184,7 +12184,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -12276,7 +12276,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -12374,7 +12374,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -12428,7 +12428,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -12452,7 +12452,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -12470,7 +12470,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -12486,7 +12486,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -12568,7 +12568,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -12578,7 +12578,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -12594,7 +12594,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -12676,7 +12676,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -13032,7 +13032,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -13074,7 +13074,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -13172,7 +13172,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -13198,7 +13198,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -13628,7 +13628,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -13660,7 +13660,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -13686,7 +13686,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -13694,7 +13694,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -13768,7 +13768,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "7": [
@@ -13786,7 +13786,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -13794,7 +13794,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "3": [
@@ -13884,7 +13884,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -13938,7 +13938,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -13980,7 +13980,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -14078,7 +14078,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -14104,7 +14104,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -14264,7 +14264,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -14298,7 +14298,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -14390,7 +14390,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -14488,7 +14488,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -14542,7 +14542,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -14584,7 +14584,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -14682,7 +14682,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -14708,7 +14708,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -14844,7 +14844,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -14886,7 +14886,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -14984,7 +14984,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -15010,7 +15010,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -15146,7 +15146,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -15170,7 +15170,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -15188,7 +15188,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -15204,7 +15204,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -15286,7 +15286,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -15296,7 +15296,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -15312,7 +15312,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -15394,7 +15394,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -15448,7 +15448,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -15490,7 +15490,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -15588,7 +15588,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -15614,7 +15614,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -16076,7 +16076,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -16110,7 +16110,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -16202,7 +16202,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -16300,7 +16300,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -16378,7 +16378,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -16412,7 +16412,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -16504,7 +16504,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -16602,7 +16602,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -16982,7 +16982,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -17016,7 +17016,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -17108,7 +17108,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -17206,7 +17206,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -17586,7 +17586,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -17620,7 +17620,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -17712,7 +17712,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -17810,7 +17810,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -18190,7 +18190,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -18224,7 +18224,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -18316,7 +18316,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -18414,7 +18414,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -18468,7 +18468,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -18492,7 +18492,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -18510,7 +18510,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -18526,7 +18526,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -18608,7 +18608,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -18618,7 +18618,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -18634,7 +18634,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -18716,7 +18716,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -18762,7 +18762,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -18820,7 +18820,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -18902,7 +18902,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "7": [
@@ -18928,7 +18928,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "3": [
@@ -19064,7 +19064,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -19072,7 +19072,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -19114,7 +19114,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -19122,7 +19122,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -19204,7 +19204,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "7": [
@@ -19212,7 +19212,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-2"
+            "room": "정보A"
           }
         ]
       },
@@ -19230,7 +19230,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "3": [
@@ -19238,7 +19238,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-2"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -19700,7 +19700,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ]
       },
@@ -19734,7 +19734,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -19826,7 +19826,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -19924,7 +19924,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -21186,7 +21186,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -21228,7 +21228,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -21326,7 +21326,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ]
       },
@@ -21352,7 +21352,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -21814,7 +21814,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ]
       },
@@ -21848,7 +21848,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -21940,7 +21940,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -22038,7 +22038,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -22394,7 +22394,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -22436,7 +22436,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -22534,7 +22534,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ]
       },
@@ -22560,7 +22560,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -23022,7 +23022,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -23056,7 +23056,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -23148,7 +23148,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -23246,7 +23246,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -24206,7 +24206,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -24248,7 +24248,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -24346,7 +24346,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ]
       },
@@ -24372,7 +24372,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -26344,7 +26344,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ]
       },
@@ -26378,7 +26378,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -26470,7 +26470,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -26568,7 +26568,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -26948,7 +26948,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -26982,7 +26982,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -27074,7 +27074,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -27172,7 +27172,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -27226,7 +27226,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -27268,7 +27268,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -27366,7 +27366,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ]
       },
@@ -27392,7 +27392,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -27854,7 +27854,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ]
       },
@@ -27888,7 +27888,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -27980,7 +27980,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -28078,7 +28078,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -28124,7 +28124,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -28156,7 +28156,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ]
       },
@@ -28182,7 +28182,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -28190,7 +28190,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -28264,7 +28264,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "7": [
@@ -28282,7 +28282,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -28290,7 +28290,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "3": [
@@ -28380,7 +28380,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-3"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -29030,7 +29030,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -29088,7 +29088,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -29170,7 +29170,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "7": [
@@ -29196,7 +29196,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "3": [
@@ -29332,7 +29332,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -29390,7 +29390,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -29472,7 +29472,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "7": [
@@ -29498,7 +29498,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "3": [
@@ -30548,7 +30548,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -30572,7 +30572,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -30590,7 +30590,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -30606,7 +30606,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -30688,7 +30688,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ]
       },
@@ -30698,7 +30698,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -30714,7 +30714,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -30796,7 +30796,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -30850,7 +30850,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -30892,7 +30892,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -30990,7 +30990,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ]
       },
@@ -31016,7 +31016,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -31478,7 +31478,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ]
       },
@@ -31512,7 +31512,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -31604,7 +31604,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -31702,7 +31702,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -31756,7 +31756,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -31780,7 +31780,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -31798,7 +31798,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -31814,7 +31814,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -31896,7 +31896,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ]
       },
@@ -31906,7 +31906,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -31922,7 +31922,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -32004,7 +32004,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -32384,7 +32384,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ]
       },
@@ -32418,7 +32418,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -32510,7 +32510,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -32608,7 +32608,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -32988,7 +32988,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ]
       },
@@ -33022,7 +33022,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -33114,7 +33114,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -33212,7 +33212,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -33290,7 +33290,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ]
       },
@@ -33324,7 +33324,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -33416,7 +33416,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -33514,7 +33514,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -33592,7 +33592,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ]
       },
@@ -33626,7 +33626,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -33718,7 +33718,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -33816,7 +33816,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -33870,7 +33870,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -33912,7 +33912,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -34010,7 +34010,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ]
       },
@@ -34036,7 +34036,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -35404,7 +35404,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ]
       },
@@ -35438,7 +35438,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -35530,7 +35530,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -35628,7 +35628,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -36612,7 +36612,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ]
       },
@@ -36646,7 +36646,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -36738,7 +36738,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -36836,7 +36836,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -38090,7 +38090,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -38122,7 +38122,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ]
       },
@@ -38148,7 +38148,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -38156,7 +38156,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -38230,7 +38230,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "7": [
@@ -38248,7 +38248,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -38256,7 +38256,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "3": [
@@ -38346,7 +38346,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -39028,7 +39028,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ]
       },
@@ -39062,7 +39062,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -39154,7 +39154,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -39252,7 +39252,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-4"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -39902,7 +39902,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -39960,7 +39960,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -40042,7 +40042,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "7": [
@@ -40068,7 +40068,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "3": [
@@ -40204,7 +40204,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -40236,7 +40236,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ]
       },
@@ -40262,7 +40262,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -40270,7 +40270,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -40344,7 +40344,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "7": [
@@ -40362,7 +40362,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -40370,7 +40370,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "3": [
@@ -40460,7 +40460,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -42350,7 +42350,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ]
       },
@@ -42384,7 +42384,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -42476,7 +42476,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -42574,7 +42574,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -42652,7 +42652,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -42686,7 +42686,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -42778,7 +42778,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -42876,7 +42876,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -43256,7 +43256,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ]
       },
@@ -43290,7 +43290,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -43382,7 +43382,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -43480,7 +43480,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -43860,7 +43860,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -43894,7 +43894,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -43986,7 +43986,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -44084,7 +44084,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -44766,7 +44766,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -44800,7 +44800,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -44892,7 +44892,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -44990,7 +44990,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -45370,7 +45370,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ]
       },
@@ -45404,7 +45404,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -45496,7 +45496,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -45594,7 +45594,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -45640,7 +45640,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -45698,7 +45698,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -45780,7 +45780,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "7": [
@@ -45806,7 +45806,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "3": [
@@ -45942,7 +45942,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -46000,7 +46000,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "4": [
@@ -46082,7 +46082,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "7": [
@@ -46108,7 +46108,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "B",
             "teacher": "김보연",
-            "room": "11-3"
+            "room": "미술B"
           }
         ],
         "3": [
@@ -46276,7 +46276,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ]
       },
@@ -46310,7 +46310,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -46402,7 +46402,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "2": [
@@ -46500,7 +46500,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "E",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "7": []
@@ -46856,7 +46856,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -46898,7 +46898,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -46996,7 +46996,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ]
       },
@@ -47022,7 +47022,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -47158,7 +47158,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -47200,7 +47200,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -47298,7 +47298,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ]
       },
@@ -47324,7 +47324,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -48088,7 +48088,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -48122,7 +48122,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -48214,7 +48214,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -48312,7 +48312,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -48366,7 +48366,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -48408,7 +48408,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -48506,7 +48506,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ]
       },
@@ -48532,7 +48532,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -48668,7 +48668,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "5": [
@@ -48710,7 +48710,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "3": [
@@ -48808,7 +48808,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "이유준",
-            "room": "12-5"
+            "room": "정보A"
           }
         ]
       },
@@ -48834,7 +48834,7 @@ window.STUDENTS_DATA = [
             "subject": "비즈니스 엑셀",
             "group": "G",
             "teacher": "김희정",
-            "room": "12-5"
+            "room": "정보A"
           }
         ],
         "4": [
@@ -49296,7 +49296,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -49330,7 +49330,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -49422,7 +49422,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -49520,7 +49520,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
@@ -49598,7 +49598,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ]
       },
@@ -49632,7 +49632,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "5": [
@@ -49724,7 +49724,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "2": [
@@ -49822,7 +49822,7 @@ window.STUDENTS_DATA = [
             "subject": "미술 감상과 비평",
             "group": "E",
             "teacher": "김보연",
-            "room": "11-4"
+            "room": "미술B"
           }
         ],
         "7": []
