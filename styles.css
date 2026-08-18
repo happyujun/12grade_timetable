@@ -857,6 +857,23 @@ body {
 }
 
 /* ============================================================
+   13-1. 시간표 이미지 저장(캡처) 시 임시 숨김 처리
+   - 뷰 전환 버튼, 안내 문구 등 시간표 이미지에 불필요한 UI를 숨깁니다.
+   ============================================================ */
+body.capturing-image .tip-text,
+body.capturing-image .view-mode-selector,
+body.capturing-image .day-tabs-container {
+  display: none !important;
+}
+body.capturing-image .timetable-card-header {
+  justify-content: flex-start;
+}
+body.capturing-image .student-profile-card,
+body.capturing-image .timetable-card {
+  box-shadow: none !important;
+}
+
+/* ============================================================
    14. 인쇄용 CSS
    ============================================================ */
 @media print {

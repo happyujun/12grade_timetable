@@ -99,7 +99,7 @@ function setupEventListeners() {
   });
 
   themeToggleBtn.addEventListener('click', toggleTheme);
-  printBtn.addEventListener('click', () => window.print());
+  printBtn.addEventListener('click', downloadTimetableImage);
 
   // 뷰 전환 버튼
   viewGridBtn.addEventListener('click', () => setViewMode('grid'));
@@ -142,6 +142,65 @@ function setViewMode(mode) {
     viewTabBtn.classList.add('active');
     viewGridBtn.classList.remove('active');
     if (selectedStudent) renderTabView(selectedStudent.timetable);
+  }
+}
+
+/**
+ * 6-1. 선택된 학생의 시간표를 이미지(PNG) 파일로 다운로드합니다.
+ * - html2canvas로 프로필 카드 + 주간 시간표 영역만 캡처합니다.
+ * - 캡처 시에는 항상 '주간 전체표' 뷰로 강제 전환하고, 뷰 전환 버튼/안내 문구 등
+ *   불필요한 UI는 잠시 숨겼다가 캡처가 끝나면 원래 상태로 복원합니다.
+ */
+async function downloadTimetableImage() {
+  if (!selectedStudent) {
+    alert('먼저 학생을 선택해주세요.');
+    return;
+  }
+  if (typeof html2canvas === 'undefined') {
+    alert('이미지 저장 기능을 불러오지 못했습니다. 인터넷 연결을 확인한 뒤 다시 시도해주세요.');
+    return;
+  }
+
+  const originalBtnHTML = printBtn.innerHTML;
+  const originalViewMode = currentViewMode;
+
+  printBtn.disabled = true;
+  printBtn.innerHTML = '<i class="fa-solid fa-spinner fa-spin"></i> <span>저장 중...</span>';
+
+  // 캡처 전용 스타일 적용 (뷰 전환 버튼/안내 문구 숨김) + 주간 전체표 뷰로 고정
+  document.body.classList.add('capturing-image');
+  if (originalViewMode !== 'grid') setViewMode('grid');
+
+  try {
+    // 브라우저가 뷰 전환/스타일 변경을 실제로 반영할 시간을 살짝 확보
+    await new Promise(resolve => setTimeout(resolve, 50));
+
+    const bgColor = getComputedStyle(document.documentElement)
+      .getPropertyValue('--bg-surface').trim() || '#ffffff';
+
+    const canvas = await html2canvas(timetableContent, {
+      backgroundColor: bgColor,
+      scale: 2,
+      useCORS: true
+    });
+
+    const safeName = selectedStudent.name.replace(/\s+/g, '');
+    const fileName = `${safeName}_12학년${selectedStudent.classNum}반${selectedStudent.studentNum}번_시간표.png`;
+
+    const link = document.createElement('a');
+    link.download = fileName;
+    link.href = canvas.toDataURL('image/png');
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+  } catch (error) {
+    console.error('시간표 이미지 저장 실패:', error);
+    alert('이미지를 저장하는 중 문제가 발생했습니다. 다시 시도해주세요.');
+  } finally {
+    document.body.classList.remove('capturing-image');
+    if (originalViewMode !== 'grid') setViewMode(originalViewMode);
+    printBtn.disabled = false;
+    printBtn.innerHTML = originalBtnHTML;
   }
 }
 
