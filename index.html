@@ -2,7 +2,7 @@
 <html lang="ko">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <title>12학년 2학기 학생 맞춤 시간표 조회 시스템</title>
   <meta name="description" content="2026학년도 12학년 2학기 개별 학생 선택과목 시간표 조회 웹 애플리케이션입니다.">
   <!-- 구글 폰트: Outfit (영어/숫자) 및 Noto Sans KR (한글) -->
@@ -117,15 +117,35 @@
           </div>
         </div>
 
-        <!-- 시간표 그리드 영역 -->
+        <!-- 시간표 그리드 카드 -->
         <div class="timetable-card">
           <div class="timetable-card-header">
-            <h3><i class="fa-solid fa-table-cells"></i> 주간 시간표 (월 ~ 금)</h3>
-            <span class="tip-text"><i class="fa-solid fa-lightbulb"></i> 과목 칩을 클릭하면 해당 수업 교시가 하이라이트됩니다.</span>
+            <h3><i class="fa-solid fa-table-cells"></i> 주간 시간표</h3>
+            
+            <!-- 모바일/디스플레이 뷰 컨트롤러 (주간 전체표 vs 요일별 보기) -->
+            <div class="view-mode-selector">
+              <button id="viewGridBtn" class="view-mode-btn active" title="주간 전체표 보기">
+                <i class="fa-solid fa-table-grid"></i> 주간 표
+              </button>
+              <button id="viewTabBtn" class="view-mode-btn" title="모바일 요일별 카드 보기">
+                <i class="fa-solid fa-list-check"></i> 요일별 카드
+              </button>
+            </div>
           </div>
 
-          <!-- 타임테이블 테이블 -->
-          <div class="table-responsive">
+          <span class="tip-text"><i class="fa-solid fa-lightbulb"></i> 과목 칩을 클릭하면 해당 수업 교시가 하이라이트됩니다.</span>
+
+          <!-- 모바일 요일 선택 탭 (요일별 보기 모드일 때만 표시) -->
+          <div id="dayTabsContainer" class="day-tabs-container" style="display: none;">
+            <button class="day-tab-btn active" data-day="월">월요일</button>
+            <button class="day-tab-btn" data-day="화">화요일</button>
+            <button class="day-tab-btn" data-day="수">수요일</button>
+            <button class="day-tab-btn" data-day="목">목요일</button>
+            <button class="day-tab-btn" data-day="금">금요일</button>
+          </div>
+
+          <!-- 1. 주간 전체 표 뷰 -->
+          <div id="gridViewWrapper" class="table-responsive">
             <table class="timetable-grid">
               <thead>
                 <tr>
@@ -142,6 +162,12 @@
               </tbody>
             </table>
           </div>
+
+          <!-- 2. 모바일 요일별 세로 카드 뷰 -->
+          <div id="tabViewWrapper" class="day-card-timeline" style="display: none;">
+            <!-- JS로 선택된 요일의 1~7교시 세로 카드 생성 -->
+          </div>
+
         </div>
       </div>
     </section>
